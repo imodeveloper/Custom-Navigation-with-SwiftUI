@@ -539,7 +539,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.imodeveloperlab.Barbershop;
+				PRODUCT_BUNDLE_IDENTIFIER = com.imodeveloper.Barbershop;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -568,7 +568,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.imodeveloperlab.Barbershop;
+				PRODUCT_BUNDLE_IDENTIFIER = com.imodeveloper.Barbershop;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -587,7 +587,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.imodeveloperlab.BarbershopTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.imodeveloper.BarbershopTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
@@ -607,7 +607,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.imodeveloperlab.BarbershopTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.imodeveloper.BarbershopTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
@@ -625,7 +625,7 @@
 				DEVELOPMENT_TEAM = 27XPF5QBGW;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.imodeveloperlab.BarbershopUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.imodeveloper.BarbershopUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
@@ -643,7 +643,7 @@
 				DEVELOPMENT_TEAM = 27XPF5QBGW;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.imodeveloperlab.BarbershopUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.imodeveloper.BarbershopUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
@@ -696,7 +696,7 @@
 /* Begin XCRemoteSwiftPackageReference section */
 		9025FE282C131FC80051B81E /* XCRemoteSwiftPackageReference "dskit-swiftui" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "git@github.com:imodeveloperlab/dskit-swiftui.git";
+			repositoryURL = "git@github.com:imodeveloper/dskit-swiftui.git";
 			requirement = {
 				kind = upToNextMajorVersion;
 				minimumVersion = 1.0.5;

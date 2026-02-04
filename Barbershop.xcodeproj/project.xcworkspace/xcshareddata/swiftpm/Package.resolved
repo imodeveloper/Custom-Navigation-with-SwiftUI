@@ -4,7 +4,7 @@
     {
       "identity" : "dskit-swiftui",
       "kind" : "remoteSourceControl",
-      "location" : "git@github.com:imodeveloperlab/dskit-swiftui.git",
+      "location" : "git@github.com:imodeveloper/dskit-swiftui.git",
       "state" : {
         "revision" : "322a66ac09e3084a3698df915f208e2ce0684890",
         "version" : "1.0.5"
